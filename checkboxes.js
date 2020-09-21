@@ -12,3 +12,6 @@ htmlContent += '<div><input type="checkbox" value='+progLanguages[cont]+'">'+pro
 console.log(htmlContent);
 formID.innerHTML = htmlContent; 
 });
+
+
+var nascosta='variabile inutilizzata';
