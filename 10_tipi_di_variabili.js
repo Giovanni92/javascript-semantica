@@ -2,7 +2,7 @@
 //Nei contesti a tipizzazione dinamica forte, i valori assegnati alle variabili hanno dei tipi ben definiti, mentre in contesti di tipizzazione dinamica debole,
 // le variabili possono riferirsi a valori di qualsiasi tipo, che possono cambiare dinamicamente in seguito a manipolazioni esterne.
 
-
+//ciao
 
 var test; 
 //undefined value
